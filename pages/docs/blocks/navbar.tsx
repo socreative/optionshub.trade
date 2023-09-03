@@ -224,49 +224,6 @@ const Navbars: NextPage = () => {
         </div>
       </Block>
 
-      <Block id={14} markup={all.markup14}>
-        <div className="container pt-15 pt-md-17">
-          <h2 className="mb-0">Center Logo - Dark Background</h2>
-        </div>
-
-        <div className="container-fluid pt-10 pt-md-12 pb-12 pb-md-14 px-xxl-10 text-center">
-          <img src="/img/docs/navbars/navbar-14.png" alt="navbar-1" className="img-fluid" />
-        </div>
-      </Block>
-
-      <Block id={15} markup={all.markup15}>
-        <div className="container pt-15 pt-md-17">
-          <h2 className="mb-3">Extended</h2>
-          <p className="lead mb-0">
-            Check out some of the live examples:{' '}
-            <a href="/demo-12" className="external" target="_blank">
-              Demo 12
-            </a>
-            .
-          </p>
-        </div>
-
-        <div className="container-fluid pt-10 pt-md-12 pb-12 pb-md-14 px-xxl-10 text-center">
-          <img src="/img/docs/navbars/navbar-16.png" alt="navbar-1" className="img-fluid" />
-        </div>
-      </Block>
-
-      <Block id={16} markup={all.markup16}>
-        <div className="container pt-15 pt-md-17">
-          <h2 className="mb-3">Extended - Alternative</h2>
-          <p className="lead mb-0">
-            Check out some of the live examples:{' '}
-            <a href="/demo-24" className="external" target="_blank">
-              Demo 24
-            </a>
-            .
-          </p>
-        </div>
-
-        <div className="container-fluid pt-10 pt-md-12 pb-12 pb-md-14 px-xxl-10 text-center">
-          <img src="/img/docs/navbars/navbar-17.png" alt="navbar-1" className="img-fluid" />
-        </div>
-      </Block>
     </BlockLayout>
   );
 };

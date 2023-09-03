@@ -12,7 +12,7 @@ import { Process5 } from 'components/blocks/process';
 import { Services7 } from 'components/blocks/services';
 import { Testimonial4 } from 'components/blocks/testimonial';
 
-import Alert from 'components/common/Alert';
+// import Alert from 'components/common/Alert';
 import PageProgress from 'components/common/PageProgress';
 import NextLink from 'components/reuseable/links/NextLink';
 
