@@ -4,19 +4,19 @@ export const accordionList1 = [
     {
       no: 'One',
       expand: false,
-      heading: 'Can I cancel my subscription?',
+      heading: 'Can I join you?',
       body: `Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Cras mattis consectetur purus sit amet fermentum. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec sed odio dui. Cras justo odio, dapibus ac facilisis.`
     },
     {
       no: 'Two',
       expand: false,
-      heading: 'Which payment methods do you accept?',
+      heading: 'Is it free?',
       body: `Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Cras mattis consectetur purus sit amet fermentum. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec sed odio dui. Cras justo odio, dapibus ac facilisis.`
     },
     {
       no: 'Three',
       expand: false,
-      heading: 'How can I manage my Account?',
+      heading: 'What do I get?',
       body: `Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Cras mattis consectetur purus sit amet fermentum. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec sed odio dui. Cras justo odio, dapibus ac facilisis.`
     }
   ],
@@ -24,20 +24,20 @@ export const accordionList1 = [
     {
       no: 'Four',
       expand: false,
-      heading: 'How do I get my subscription receipt?',
+      heading: 'Why would I join the team?',
       body: `Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Cras mattis consectetur purus sit amet fermentum. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec sed odio dui. Cras justo odio, dapibus ac facilisis.`
     },
     {
       no: 'Five',
       expand: false,
-      heading: 'Are there any discounts for people in need?',
+      heading: 'Do you provide a "get rich in no time" service?',
       body: `Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Cras mattis consectetur purus sit amet fermentum. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec sed odio dui. Cras justo odio, dapibus ac facilisis.`
     },
     {
       no: 'Six',
       expand: false,
-      heading: 'Do you offer a Join the club edit?',
-      body: `Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Cras mattis consectetur purus sit amet fermentum. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec sed odio dui. Cras justo odio, dapibus ac facilisis.`
+      heading: 'Is Amrire really a cat?',
+      body: `Quite possibly.`
     }
   ]
 ];
