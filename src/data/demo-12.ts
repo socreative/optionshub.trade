@@ -80,13 +80,13 @@ const factList = [
 const reviews = [
   {
     id: 1,
-    name: 'Coriss Ambady',
+    name: 'Admire Cat',
     designation: 'Financial Analyst',
     review: `Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Vestibulum id ligula porta. Cras mattis consectetur.`
   },
   {
     id: 2,
-    name: 'Cory Zamora',
+    name: 'Tesla Queen',
     designation: 'Marketing Specialist',
     review: `Fusce dapibus, tellus ac cursus tortor mauris condimentum fermentum massa justo sit amet purus sit amet fermentum.`
   },
@@ -98,7 +98,7 @@ const reviews = [
   },
   {
     id: 4,
-    name: 'Coriss Ambady',
+    name: 'Admire Cat',
     designation: 'Financial Analyst',
     review: `Etiam adipiscing tincidunt elit convallis felis suscipit ut. Phasellus rhoncus eu tincidunt auctor nullam rutrum, pharetra augue.`
   }

@@ -79,13 +79,13 @@ const accordionList = [
 
 const testimonialList = [
   {
-    name: 'Coriss Ambady',
+    name: 'Admire Cat',
     image: '/img/avatars/te1.jpg',
     designation: 'Financial Analyst',
     review: `Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Vestibulum id ligula porta felis euismod semper. Cras justo odio dapibus facilisis sociis natoque penatibus.`
   },
   {
-    name: 'Cory Zamora',
+    name: 'Tesla Queen',
     image: '/img/avatars/te2.jpg',
     designation: 'Marketing Specialist',
     review: `Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Vestibulum id ligula porta felis euismod semper. Cras justo odio dapibus facilisis sociis natoque penatibus.`
@@ -93,11 +93,11 @@ const testimonialList = [
   {
     name: 'Nikolas Brooten',
     image: '/img/avatars/te3.jpg',
-    designation: 'Sales Specialist',
+    designation: 'Bear Master',
     review: `Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Vestibulum id ligula porta felis euismod semper. Cras justo odio dapibus facilisis sociis natoque penatibus.`
   },
   {
-    name: 'Coriss Ambady',
+    name: 'Admire Cat',
     image: '/img/avatars/te4.jpg',
     designation: 'Financial Analyst',
     review: `Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Vestibulum id ligula porta felis euismod semper. Cras justo odio dapibus facilisis sociis natoque penatibus.`
@@ -111,7 +111,7 @@ const testimonialList = [
   {
     name: 'Laura Widerski',
     image: '/img/avatars/te6.jpg',
-    designation: 'Sales Specialist',
+    designation: 'Bear Master',
     review: `Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Vestibulum id ligula porta felis euismod semper. Cras justo odio dapibus facilisis sociis natoque penatibus.`
   }
 ];

@@ -30,13 +30,13 @@ const services = [
 const teams = [
   {
     id: 1,
-    name: 'Coriss Ambady',
+    name: 'Admire Cat',
     designation: 'Financial Analyst',
     image: { '1x': '/img/avatars/t1.jpg', '2x': '/img/avatars/t1@2x.jpg 2x' }
   },
   {
     id: 2,
-    name: 'Cory Zamora',
+    name: 'Tesla Queen',
     designation: 'Marketing Specialist',
     image: { '1x': '/img/avatars/t2.jpg', '2x': '/img/avatars/t2@2x.jpg 2x' }
   },

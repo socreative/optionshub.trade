@@ -127,7 +127,7 @@ export const processList6 = [
     id: 1,
     color: 'green',
     Icon: CloudComputing,
-    title: '1. Download',
+    title: '1. Join Discord',
     description: 'Nulla vitae elit libero elit non porta eget.'
   },
   {

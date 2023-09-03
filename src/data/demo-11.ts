@@ -48,13 +48,13 @@ const blogList = [
 const teams = [
   {
     id: 1,
-    name: 'Coriss Ambady',
+    name: 'Admire Cat',
     designation: 'Financial Analyst',
     image: { '1x': '/img/avatars/t1.jpg', '2x': '/img/avatars/t1@2x.jpg 2x' }
   },
   {
     id: 2,
-    name: 'Cory Zamora',
+    name: 'Tesla Queen',
     designation: 'Marketing Specialist',
     image: { '1x': '/img/avatars/t2.jpg', '2x': '/img/avatars/t2@2x.jpg 2x' }
   },
@@ -75,23 +75,23 @@ const teams = [
 const testimonialList = [
   {
     id: 1,
-    name: 'Coriss Ambady',
+    name: 'Admire Cat',
     image: '/img/avatars/te7.jpg',
     designation: 'Financial Analyst',
     review: `Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Vestibulum ligula porta felis euismod semper. Cras justo odio.`
   },
   {
     id: 2,
-    name: 'Cory Zamora',
+    name: 'Tesla Queen',
     image: '/img/avatars/te8.jpg',
     designation: 'Marketing Specialist',
     review: `Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Vestibulum ligula porta felis euismod semper. Cras justo odio.`
   },
   {
     id: 3,
-    name: 'Barclay Widerski',
+    name: 'Omega Sausage',
     image: '/img/avatars/te9.jpg',
-    designation: 'Sales Specialist',
+    designation: 'Bear Master',
     review: `Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Vestibulum ligula porta felis euismod semper. Cras justo odio.`
   }
 ];

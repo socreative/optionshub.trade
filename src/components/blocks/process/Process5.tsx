@@ -7,13 +7,13 @@ const Process5: FC = () => {
     <div className="row gx-lg-8 gx-xl-10 mb-lg-19 mb-xl-22 align-items-center">
       <div className="col-lg-6">
         <figure>
-          <img alt="how it work" src="/img/photos/device.png" srcSet="/img/photos/device@2x.png 2x" />
+          <img alt="how it works" src="/img/photos/discord.png" srcSet="/img/photos/discord.png" />
         </figure>
       </div>
 
       <div className="col-lg-6">
         <h2 className="fs-15 text-uppercase text-muted mb-3">How It Works</h2>
-        <h3 className="display-4 mb-5">Download the app, create your profile and voilà, you're all set!</h3>
+        <h3 className="display-4 mb-5">Join our Discord community, create your profile and voilà, you're all set!</h3>
         <p className="mb-8">
           Donec ullamcorper nulla non metus auctor fringilla. Cras mattis consectetur purus sit amet fermentum. Integer
           posuere erat a ante venenatis dapibus posuere velit aliquet. Nulla vitae elit libero. Etiam porta sem

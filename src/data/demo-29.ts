@@ -75,14 +75,14 @@ export const testimonials = [
   {
     id: 1,
     color: color.grape,
-    name: 'Coriss Ambady',
+    name: 'Admire Cat',
     designation: 'Financial Analyst',
     review: `Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Vestibulum id ligula porta felis euismod semper. Cras justo odio dapibus facilisis sociis natoque penatibus.`
   },
   {
     id: 2,
     color: color.green,
-    name: 'Cory Zamora',
+    name: 'Tesla Queen',
     designation: 'Marketing Specialist',
     review: `Fusce dapibus, tellus ac cursus tortor mauris condimentum fermentum massa justo sit amet. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.`
   },
@@ -96,7 +96,7 @@ export const testimonials = [
   {
     id: 4,
     color: color.pink,
-    name: 'Coriss Ambady',
+    name: 'Admire Cat',
     designation: 'Financial Analyst',
     review: `Etiam adipiscing tincidunt elit convallis felis suscipit ut. Phasellus rhoncus tincidunt auctor. Nullam eu sagittis mauris. Donec non dolor ac elit aliquam tincidunt at at sapien. Aenean tortor libero condimentum ac laoreet vitae.`
   },
@@ -104,7 +104,7 @@ export const testimonials = [
     id: 5,
     color: color.yellow,
     name: 'Laura Widerski',
-    designation: 'Sales Specialist',
+    designation: 'Bear Master',
     review: `Donec id elit non mi porta gravida at eget metus. Nulla vitae elit libero, a pharetra augue. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.`
   },
   {

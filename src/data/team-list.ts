@@ -1,7 +1,7 @@
 const teams = [
   {
     id: 1,
-    name: 'Coriss Ambady',
+    name: 'Admire Cat',
     image: '/img/avatars/t1.jpg',
     designation: 'Financial Analyst',
     dribbbleUrl: 'https://dribbble.com',
@@ -11,7 +11,7 @@ const teams = [
   },
   {
     id: 2,
-    name: 'Cory Zamora',
+    name: 'Tesla Queen',
     image: '/img/avatars/t2.jpg',
     designation: 'Marketing Specialist',
     dribbbleUrl: 'https://dribbble.com',

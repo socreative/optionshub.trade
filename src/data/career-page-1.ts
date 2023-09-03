@@ -47,14 +47,14 @@ const facilities = [
 const testimonialList = [
   {
     id: 1,
-    name: 'Coriss Ambady',
+    name: 'Admire Cat',
     image: '/img/avatars/te1.jpg',
     designation: 'Financial Analyst',
     review: `Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Vestibulum id ligula porta felis euismod semper. Cras justo odio dapibus facilisis sociis.`
   },
   {
     id: 2,
-    name: 'Cory Zamora',
+    name: 'Tesla Queen',
     image: '/img/avatars/te2.jpg',
     designation: 'Marketing Specialist',
     review: `Fusce dapibus, tellus ac cursus tortor mauris condimentum fermentum massa justo sit amet. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia.`
@@ -68,7 +68,7 @@ const testimonialList = [
   },
   {
     id: 4,
-    name: 'Coriss Ambady',
+    name: 'Admire Cat',
     image: '/img/avatars/te4.jpg',
     designation: 'Financial Analyst',
     review: `Etiam adipiscing tincidunt elit convallis felis suscipit ut. Phasellus rhoncus tincidunt auctor. Nullam eu sagittis mauris. Donec non dolor ac elit aliquam tincidunt at at sapien. Aenean tortor`
@@ -77,7 +77,7 @@ const testimonialList = [
     id: 5,
     name: 'Laura Widerski',
     image: '/img/avatars/te5.jpg',
-    designation: 'Sales Specialist',
+    designation: 'Bear Master',
     review: `Donec id elit non mi porta gravida at eget metus. Nulla vitae elit libero, a pharetra augue. Cum sociis natoque penatibus et magnis dis parturient.`
   },
   {

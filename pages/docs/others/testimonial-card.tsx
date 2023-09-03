@@ -32,12 +32,12 @@ const quickAccess = [
 
 const testimonialList1 = [
   {
-    name: 'Coriss Ambady',
+    name: 'Admire Cat',
     designation: 'Financial Analyst',
     review: `Donec id elit non porta gravida at eget metus. Duis mollis est luctus commodo nisi erat.`
   },
   {
-    name: 'Cory Zamora',
+    name: 'Tesla Queen',
     designation: 'Marketing Specialist',
     review: `Donec id elit non porta gravida at eget metus. Duis mollis est luctus commodo nisi erat.`
   }
@@ -46,14 +46,14 @@ const testimonialList1 = [
 const testimonialList3 = [
   {
     id: 1,
-    name: 'Coriss Ambady',
+    name: 'Admire Cat',
     image: '/img/avatars/te1.jpg',
     designation: 'Financial Analyst',
     review: `Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Vestibulum id ligula porta felis euismod semper. Cras justo odio dapibus facilisis sociis.`
   },
   {
     id: 2,
-    name: 'Cory Zamora',
+    name: 'Tesla Queen',
     image: '/img/avatars/te2.jpg',
     designation: 'Marketing Specialist',
     review: `Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Vestibulum id ligula porta felis euismod semper. Cras justo odio dapibus facilisis sociis.`

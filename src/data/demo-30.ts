@@ -38,14 +38,14 @@ export const processList = [
 export const testimonials = [
   {
     id: 1,
-    name: 'Coriss Ambady',
+    name: 'Admire Cat',
     designation: 'Financial Analyst',
     review: `Cum sociis natoque penatibus et magnis dis parturient montes.`,
     className: 'col-md-6 col-xl-5 align-self-end'
   },
   {
     id: 2,
-    name: 'Cory Zamora',
+    name: 'Tesla Queen',
     designation: 'Marketing Specialist',
     review: `Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Vestibulum id ligula porta
     felis euismod.`,
@@ -53,8 +53,8 @@ export const testimonials = [
   },
   {
     id: 3,
-    name: 'Barclay Widerski',
-    designation: 'Sales Specialist',
+    name: 'Omega Sausage',
+    designation: 'Bear Master',
     review: `Donec id elit non porta gravida at eget metus. Duis mollis est luctus commodo nisi erat.`,
     className: 'col-md-6 col-xl-5 offset-xl-1'
   },

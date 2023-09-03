@@ -25,7 +25,7 @@ const Testimonial21: FC = () => {
 
                   <div className="blockquote-details justify-content-center text-center">
                     <div className="info p-0">
-                      <h4 className="ls-sm mb-1">Coriss Ambady</h4>
+                      <h4 className="ls-sm mb-1">Admire Cat</h4>
                       <p className="mb-0">Financial Analyst</p>
                     </div>
                   </div>

@@ -1,20 +1,20 @@
 // used in the testimonial-1 block
 export const testimonialList1 = [
   {
-    name: 'Coriss Ambady',
+    name: 'Admire Cat',
     designation: 'Financial Analyst',
     review: 'Cum sociis natoque penatibus et magnis dis parturient montes.',
     columnClasses: 'col-xl-5 align-self-end'
   },
   {
-    name: 'Cory Zamora',
+    name: 'Tesla Queen',
     designation: 'Marketing Specialist',
     review: `Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Vestibulum id ligula porta felis euismod.`,
     columnClasses: 'align-self-end'
   },
   {
-    name: 'Barclay Widerski',
-    designation: 'Sales Specialist',
+    name: 'Omega Sausage',
+    designation: 'Bear Master',
     review: `Donec id elit non porta gravida at eget metus. Duis mollis est luctus commodo nisi erat.`,
     columnClasses: 'col-xl-5 offset-xl-1'
   },
@@ -28,23 +28,23 @@ export const testimonialList1 = [
 
 export const testimonialList2 = [
   {
-    name: 'Coriss Ambady',
+    name: 'Admire Cat',
     image: '/img/avatars/te7.jpg',
     designation: 'Financial Analyst',
     review: `Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor.
       Vestibulum ligula porta felis euismod semper. Cras justo odio.`
   },
   {
-    name: 'Cory Zamora',
+    name: 'Tesla Queen',
     image: '/img/avatars/te8.jpg',
     designation: 'Marketing Specialist',
     review: `Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor.
       Vestibulum ligula porta felis euismod semper. Cras justo odio.`
   },
   {
-    name: 'Barclay Widerski',
+    name: 'Omega Sausage',
     image: '/img/avatars/te9.jpg',
-    designation: 'Sales Specialist',
+    designation: 'Bear Master',
     review: `Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor.
       Vestibulum ligula porta felis euismod semper. Cras justo odio.`
   },
@@ -60,7 +60,7 @@ export const testimonialList2 = [
 export const testimonialList3 = [
   {
     id: 1,
-    name: 'Coriss Ambady',
+    name: 'Admire Cat',
     image: '/img/avatars/te1.jpg',
     designation: 'Financial Analyst',
     review: `Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Vestibulum ligula porta
@@ -68,7 +68,7 @@ export const testimonialList3 = [
   },
   {
     id: 2,
-    name: 'Cory Zamora',
+    name: 'Tesla Queen',
     image: '/img/avatars/te2.jpg',
     designation: 'Marketing Specialist',
     review: `Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Vestibulum ligula porta
@@ -76,9 +76,9 @@ export const testimonialList3 = [
   },
   {
     id: 3,
-    name: 'Barclay Widerski',
+    name: 'Omega Sausage',
     image: '/img/avatars/te3.jpg',
-    designation: 'Sales Specialist',
+    designation: 'Bear Master',
     review: `Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Vestibulum ligula porta
     felis euismod semper. Cras justo odio consectetur adipiscing dapibus.`
   }
@@ -88,13 +88,13 @@ export const testimonialList3 = [
 export const testimonialList4 = [
   {
     id: 1,
-    name: 'Coriss Ambady',
+    name: 'Admire Cat',
     designation: 'Financial Analyst',
     review: `Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Vestibulum id ligula porta. Cras mattis consectetur.`
   },
   {
     id: 2,
-    name: 'Cory Zamora',
+    name: 'Tesla Queen',
     designation: 'Marketing Specialist',
     review: `Fusce dapibus, tellus ac cursus tortor mauris condimentum fermentum massa justo sit amet purus fermentum.`
   },
@@ -106,7 +106,7 @@ export const testimonialList4 = [
   },
   {
     id: 4,
-    name: 'Coriss Ambady',
+    name: 'Admire Cat',
     designation: 'Marketing Manager',
     review: `Etiam adipiscing tincidunt elit convallis felis suscipit ut. Phasellus rhoncus eu tincidunt auctor nullam rutrum.`
   }
@@ -116,14 +116,14 @@ export const testimonialList4 = [
 export const testimonialList5 = [
   {
     id: 1,
-    name: 'Coriss Ambady',
+    name: 'Admire Cat',
     designation: 'Financial Analyst',
     review: `Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Vestibulum ligula porta felis
     euismod semper. Cras justo odio.`
   },
   {
     id: 2,
-    name: 'Cory Zamora',
+    name: 'Tesla Queen',
     designation: 'Marketing Specialist',
     review: `Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Vestibulum ligula porta felis
     euismod semper. Cras justo odio.`
@@ -166,20 +166,20 @@ export const testimonialList6 = [
 export const testimonialList7 = [
   {
     id: 1,
-    name: 'Coriss Ambady',
+    name: 'Admire Cat',
     designation: 'Financial Analyst',
     review: `Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Vestibulum ligula porta felis euismod semper. Cras justo odio.`
   },
   {
     id: 2,
-    name: 'Cory Zamora',
+    name: 'Tesla Queen',
     designation: 'Marketing Specialist',
     review: `Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Vestibulum ligula porta felis euismod semper. Cras justo odio.`
   },
   {
     id: 3,
     name: 'Nikolas Brooten',
-    designation: 'Sales Specialist',
+    designation: 'Bear Master',
     review: `Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Vestibulum ligula porta felis euismod semper. Cras justo odio.`
   },
   {
@@ -191,7 +191,7 @@ export const testimonialList7 = [
   {
     id: 5,
     name: 'Laura Widerski',
-    designation: 'Sales Specialist',
+    designation: 'Bear Master',
     review: `Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Vestibulum ligula porta felis euismod semper. Cras justo odio.`
   }
 ];

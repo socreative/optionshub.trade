@@ -12,7 +12,7 @@ import { Process5 } from 'components/blocks/process';
 import { Services7 } from 'components/blocks/services';
 import { Testimonial4 } from 'components/blocks/testimonial';
 
-// import Alert from 'components/common/Alert';
+
 import PageProgress from 'components/common/PageProgress';
 import NextLink from 'components/reuseable/links/NextLink';
 
@@ -64,7 +64,7 @@ const Demo6: NextPage = () => {
                   </a>
 
                   <figure className="rounded shadow">
-                    <img src="/img/photos/v1.jpg" srcSet="/img/photos/v1@2x.jpg 2x" alt="" />
+                    <img src="/img/photos/v1.jpg" srcSet="/img/photos/v1.jpg 2x" alt="" />
                   </figure>
                 </div>
 
@@ -79,7 +79,7 @@ const Demo6: NextPage = () => {
         <Testimonial4 />
 
         {/* ========== banner section ========== */}
-        <Banner1 />
+        {/* <Banner1 /> */}
       </main>
 
       {/* ========== footer section ========== */}

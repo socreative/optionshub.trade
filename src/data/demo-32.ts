@@ -86,22 +86,22 @@ export const testimonials = [
   {
     id: 1,
     image: 'te1',
-    name: 'Coriss Ambady',
+    name: 'Admire Cat',
     designation: 'Financial Analyst',
     review: `Vivamus sagittis lacus augue laoreet rutrum faucibus auctor vestibulum ligula porta felis, euismod semper cras justo odio.`
   },
   {
     id: 2,
     image: 'te2',
-    name: 'Cory Zamora',
+    name: 'Tesla Queen',
     designation: 'Marketing Specialist',
     review: `Vivamus sagittis lacus augue laoreet rutrum faucibus auctor vestibulum ligula porta felis, euismod semper cras justo odio.`
   },
   {
     id: 3,
     image: 'te3',
-    name: 'Barclay Widerski',
-    designation: 'Sales Specialist',
+    name: 'Omega Sausage',
+    designation: 'Bear Master',
     review: `Vivamus sagittis lacus augue laoreet rutrum faucibus auctor vestibulum ligula porta felis, euismod semper cras justo odio.`
   }
 ];
