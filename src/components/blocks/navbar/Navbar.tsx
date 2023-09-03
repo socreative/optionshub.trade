@@ -20,10 +20,9 @@ import MiniCart from './partials/MiniCart';
 // -------- data -------- //
 import {
   community,
-  blogsNavigation,
   blocksNavigation,
   universityNavigation,
-  documentionNavigation
+  usefulResourcesNavigation,
 } from 'data/navigation';
 
 // ===================================================================
@@ -87,7 +86,7 @@ const Navbar: FC<NavbarProps> = (props) => {
               </ul>
             </li>
 
-            {/* ===================== projects nav item  ===================== */}
+            {/* ===================== university nav item  ===================== */}
             <li className="nav-item dropdown">
               <DropdownToggleLink title="University" className="nav-link dropdown-toggle" />
 
@@ -96,12 +95,28 @@ const Navbar: FC<NavbarProps> = (props) => {
                   {universityNavigation.map(({ title, children }, i) => (
                     <div key={title + i}>
                       <h6 className="dropdown-header">{title}</h6>
-                      <ListItemLink href="/team" title="Newsletter" linkClassName="dropdown-item" />
+                      <ul className="list-unstyled">{renderLinks(children)}</ul>
                     </div>
                   ))}
                 </div>
               </div>
             </li>
+            {/* ===================== useful resources nav item  ===================== */}
+            <li className="nav-item dropdown">
+              <DropdownToggleLink title="Useful resources" className="nav-link dropdown-toggle" />
+
+              <div className="dropdown-menu dropdown-lg">
+                <div className="dropdown-lg-content">
+                  {usefulResourcesNavigation.map(({ children }, i) => (
+                    <div key={'resources' + i}>
+                      <ul className="list-unstyled">{renderLinks(children)}</ul>
+                    </div>
+                  ))}
+                </div>
+              </div>
+            </li>
+
+    
           </ul>
 
           {/* ============= show contact info in the small device sidebar ============= */}
