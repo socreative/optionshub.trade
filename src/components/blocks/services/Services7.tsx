@@ -10,7 +10,7 @@ const Services7: FC = () => {
         <div className="col-md-10 offset-md-1 col-lg-8 offset-lg-2">
           <h2 className="fs-15 text-uppercase text-muted mb-3">What we do</h2>
           <h3 className="display-4 mb-9 px-xxl-11">
-           Options Trading Hub is a small community of likeminded people working towards helping each other to be better at stock trading
+           Options Trading Hub is a small community of likeminded people working towards helping each other to be better trading
           </h3>
         </div>
       </div>

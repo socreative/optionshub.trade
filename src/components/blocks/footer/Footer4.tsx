@@ -26,9 +26,7 @@ const Footer4: FC = () => {
           <div className="col-md-4 col-lg-3">
             <div className="widget">
               <h4 className="widget-title mb-3">Get in Touch</h4>
-              <address className="pe-xl-15 pe-xxl-17">Moonshine St. 14/05 Light City, London, United Kingdom</address>
               <NextLink title="info@optionshub.trade" href="mailto:#" className="link-body" />
-              <br /> 00 (123) 456 78 90
             </div>
           </div>
 
