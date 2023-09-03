@@ -36,7 +36,7 @@ export const accordionList1 = [
     {
       no: 'Six',
       expand: false,
-      heading: 'Is Amrire really a cat?',
+      heading: 'Is Admire really a cat?',
       body: `Quite possibly.`
     }
   ]
